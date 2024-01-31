@@ -1,5 +1,5 @@
 # ------------------------------------
-# FUNCTION    Week 4  Lab 4
+# FUNCTION    Week 4  Lab 4 week 4
 #             used in conjunction with Lab 
 #             to provide logic to LAB 4 to connect to Database
 #             created with sqlite3 module
